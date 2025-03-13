@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[776],{776:(s,e,o)=>{o.d(e,{foo:()=>c});const c="foo"}}]);
